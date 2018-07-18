@@ -14,5 +14,5 @@ __Concepts used:__
   
 __output (Coloured image is input | Yellow and Purple image is input):__
 
-![output1](images/ip1.png "Screenshot")
+![output1](images/ip1.jpg "Screenshot")
 ![output2](images/op1.png "Screenshot")
