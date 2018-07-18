@@ -1,0 +1,1 @@
+# 1.-Kmeans-coloursegmentation-Vegetationremoval
